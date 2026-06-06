@@ -1,0 +1,15 @@
+# --- target (Compilación de Maven) ---
+target/
+*.pom.properties
+*.pom
+
+# --- IDEs (IntelliJ IDEA, VS Code, Eclipse) ---
+.idea/
+*.iml
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+.factorypath
+
